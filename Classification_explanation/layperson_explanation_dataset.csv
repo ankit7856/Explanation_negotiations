@@ -1,0 +1,138 @@
+explanation,confidence_score,target_audience
+"The food selection should cater to different dietary requirements, ensuring all guests are satisfied.",0.85,layperson
+The budget for the party should include a margin for unexpected expenses.,0.85,layperson
+The clean-up service should be efficient and thorough.,0.85,layperson
+The invitations should be clear and informative.,0.85,layperson
+The materials used should be of the best quality.,0.85,layperson
+The initial order quantity must meet the expected demand.,0.8,layperson
+The materials used must be high quality to ensure the project's success.,0.75,layperson
+The opponent's offer must be competitive.,0.9,layperson
+The final price should be fair and reasonable.,0.85,layperson
+"The project's success should be evaluated based on its ability to meet or exceed the predefined goals, including both quantitative and qualitative metrics.",0.85,layperson
+The music should match the atmosphere of the party.,0.85,layperson
+The opponent's offer must at least match the calculated value.,0.8,layperson
+"The project's success should be measured against specific metrics that have been agreed upon before the project began, including meeting or exceeding the average performance benchmarks.",0.85,layperson
+The drinks must be suitable for the theme of the party.,0.85,layperson
+"In the second time period, the opponent's offer must adhere to a specific criterion for it to be considered acceptable. The offer should be at least as large as either a predefined minimum value, which is set before negotiations, or a value calculated from relevant data during the process.",0.6,layperson
+"The final price must be calculated based on the market rates at the time of purchase, ensuring that it does not exceed a set budget or fall below a predetermined minimum threshold.",0.6,layperson
+The food type should cater to all dietary preferences.,0.85,layperson
+The clean-up service must restore the venue to its original state.,0.8,layperson
+The statistical significance of the utility function \( U_u(\omega_t^o) \) must be considered within the context of the broader negotiation model.,0.25,layperson
+The initial budget must cover the estimated costs.,0.9,layperson
+The clean-up service must be thorough and efficient.,0.9,layperson
+"In this model, the calculated quantile function \( U_{\Omega^o_t} \) must align with the fixed threshold \( ar{u_t} \) during the initial phase of the negotiation.",0.35,layperson
+This statement means ensuring that the utility value \( U_u(\omega_t^o) \) for a given outcome meets either a predetermined statistical value or a minimum utility requirement within the initial range of 0.000 to 0.0361.,0.2,layperson
+The budget should include a contingency plan to cover any unexpected costs that may arise during the planning or execution of the event.,0.85,layperson
+"The opponent's offer must be evaluated based on its overall value, taking into account both the immediate and long-term benefits.",0.55,layperson
+The final price should be agreed upon in advance to avoid any misunderstandings during the negotiation process.,0.85,layperson
+The investment return must align with the market average.,0.9,layperson
+The materials must meet standard quality.,0.9,layperson
+"The food selection should be carefully planned to ensure that all dietary restrictions are accommodated, while also being delicious and appealing.",0.85,layperson
+"In the second interval \( [0.0361, 1.000] \), \( U_u(\omega_t^o) \) must be at least as large as the maximum value between a fixed threshold \( u \) and another quantile function applied to \( U_{\Omega^o_t} \) at a different time-dependent point.",0.3,layperson
+"The investment return should be projected based on both historical data and current market trends, ensuring that it meets or exceeds the expected growth rate.",0.85,layperson
+The project should achieve at least the average score.,0.85,layperson
+"The fixed threshold \( ar{u_t} \) serves as a benchmark for evaluating the utility of the opponent's offer \( U_u(\omega_t^o) \), particularly during the initial stages of the negotiation.",0.2,layperson
+"The service package should include all essential services, from catering to clean-up, ensuring that the event runs smoothly from start to finish.",0.85,layperson
+The service package must meet customer expectations.,0.9,layperson
+"The utility value \( U_u(\omega_t^o) \) must conform to the expected quantile function during the specified interval, ensuring that the opponent's offer remains competitive within the predetermined range.",0.3,layperson
+"During the second interval \( [0.0361, 1.000] \), the utility of the opponent's offer \( U_u(\omega_t^o) \) must be at least the greater of a fixed threshold \( u \) or a quantile function \( U_{\Omega^o_t} \) applied at a specific time-dependent point.",0.25,layperson
+"The food selection must be diverse, ensuring that all dietary preferences are catered to, while also aligning with the theme of the party.",0.6,layperson
+The clean-up service should leave the venue spotless.,0.85,layperson
+The order quantity should be carefully calculated to meet the expected demand while also accounting for potential fluctuations in supply or unforeseen circumstances.,0.85,layperson
+The project should be completed on time and meet all objectives.,0.85,layperson
+"Within the initial interval [0.000,0.0361), the utility of the opponent's offer \( U_u(\omega_t^o) \) must be at least the greater of the quantile function of \( U_{\Omega^o_t} \) or a predefined threshold \( ar{u_t} \).",0.3,layperson
+"The budget should be carefully monitored to ensure that it remains within the allocated amount, accounting for any unexpected expenses that may arise.",0.85,layperson
+The food must be fresh and suitable for all guests.,0.8,layperson
+The investment return should be as high as the market average.,0.85,layperson
+The invitations should be sent out well in advance.,0.85,layperson
+"The fixed threshold \( ar{u_t} \) is used to evaluate the utility of the opponent's offer, ensuring that it meets the required standards within the initial interval.",0.3,layperson
+"The service package should be customized to meet the specific needs of the event, ensuring that all aspects are covered.",0.85,layperson
+"The music should be selected to create the right ambiance, ensuring that it is appropriate for the event's theme.",0.85,layperson
+"In the first interval, the utility function \( U_u(\omega_t^o) \) must align with the predetermined quantile function \( U_{\Omega^o_t} \), ensuring that the opponent's offer meets the required standards.",0.3,layperson
+"The invitations should be sent out well in advance, ensuring that all guests have enough time to prepare for the event.",0.85,layperson
+The music should be selected to create the desired atmosphere.,0.85,layperson
+The opponent's offer must be evaluated based on its utility value \( U_u(\omega_t^o) \) within the context of the broader negotiation framework.,0.35,layperson
+The opponent's offer must meet or exceed a minimum threshold.,0.85,layperson
+The music at the party should reflect the overall theme and appeal to all guests.,0.85,layperson
+"The service package must cover all essential aspects, from the initial planning stages to the final execution, ensuring that no critical component is overlooked.",0.6,layperson
+The final price must be agreed upon in advance to avoid disputes.,0.75,layperson
+"In the first time period, the value of opponent's offer must be at least as large as either a calculated value from the data or a set minimum value.",0.9,layperson
+This explanation considers the role of the quantile function \( U_{\Omega^o_t} \) in determining the utility of the opponent's offer during the specified interval.,0.3,layperson
+The menu should include all essential items.,0.85,layperson
+The variety of menu items should meet the party's theme.,0.85,layperson
+The budget must be planned to cover all expected costs.,0.85,layperson
+This model emphasizes the importance of the quantile function \( U_{\Omega^o_t} \) in determining the utility of the opponent's offer within the broader negotiation context.,0.25,layperson
+"The music selection for the party should be diverse, catering to different tastes while also aligning with the overall mood and atmosphere of the event.",0.85,layperson
+"The clean-up service should be planned meticulously to ensure that the venue is restored to its original condition, taking into account the size and scope of the event.",0.85,layperson
+"In this negotiation model, the utility function \( U_u(\omega_t^o) \) must align with the quantile function \( U_{\Omega^o_t} \) to ensure the opponent's offer remains competitive.",0.3,layperson
+The clean-up service should ensure the venue is left in pristine condition after the event.,0.85,layperson
+"The invitations should clearly state the date, time, and location of the event, ensuring that all guests are well-informed.",0.85,layperson
+The food selection must include vegetarian options.,0.85,layperson
+"The final price should be competitive, ensuring that it aligns with current market trends while also meeting the set budget.",0.85,layperson
+The invitations should be clear and provide all necessary information.,0.85,layperson
+"The clean-up service should be efficient and thorough, ensuring that the venue is left in pristine condition.",0.85,layperson
+"The music for the party should be carefully selected to create the desired atmosphere, ensuring that it appeals to all guests.",0.85,layperson
+"The drinks selection should include both alcoholic and non-alcoholic options, ensuring that all guests' preferences are accommodated.",0.85,layperson
+The music should be enjoyable for everyone at the party.,0.85,layperson
+The final price should align with market rates.,0.85,layperson
+The budget should be carefully planned to avoid overspending.,0.85,layperson
+The music should cater to all age groups.,0.85,layperson
+"During the second phase, the utility function \( U_u(\omega_t^o) \) must be aligned with the quantile function \( U_{\Omega^o_t} \) to ensure that the opponent's offer is competitive.",0.25,layperson
+The drinks selection should include both alcoholic and non-alcoholic options.,0.85,layperson
+This explanation involves understanding the statistical significance of the utility function \( U_u(\omega_t^o) \) within the context of the broader negotiation model.,0.2,layperson
+The project's score should be at least as high as the average score.,0.85,layperson
+The budget should account for any unexpected costs.,0.85,layperson
+The location must be easy to access.,0.85,layperson
+The party location should be convenient for all guests.,0.85,layperson
+"The materials used in the project should be sourced from reputable suppliers, ensuring both quality and consistency throughout the project.",0.85,layperson
+The initial quality of materials must meet or exceed the standard.,0.9,layperson
+"The budget for the party should be meticulously planned, ensuring that all necessary costs are covered without exceeding the allocated amount.",0.85,layperson
+The offer must meet the basic requirements.,0.8,layperson
+The opponent's offer must be evaluated to ensure it meets the minimum threshold.,0.8,layperson
+The service package should include all necessary services for the event to run smoothly.,0.85,layperson
+The food should be prepared fresh to ensure quality.,0.85,layperson
+"The materials used in the project must be of high quality, adhering to industry standards, and must be sourced from reliable suppliers to ensure consistency and reliability.",0.65,layperson
+The drinks offered should cater to both alcoholic and non-alcoholic preferences.,0.85,layperson
+The opponent's offer must be at least as good as the average offer.,0.9,layperson
+The service package should meet the needs of all guests.,0.85,layperson
+The order quantity should be enough to meet the minimum stock level.,0.85,layperson
+"The music should set the right ambiance, making sure it aligns with the event's theme.",0.85,layperson
+The final price must match the average market price.,0.8,layperson
+The final offer must be carefully reviewed to ensure it meets all pre-established criteria before acceptance.,0.7,layperson
+The food selection should include a variety of options to cater to different tastes and preferences.,0.85,layperson
+"The party planning should take into account all necessary aspects, including the venue, food, drinks, music, and clean-up services, ensuring everything is aligned with the overall theme of the event.",0.85,layperson
+The project must meet or exceed the set goals.,0.9,layperson
+"The project's success should be measured against pre-established metrics, including both qualitative and quantitative goals.",0.85,layperson
+The opponent's offer should be assessed to ensure it meets the required standards.,0.85,layperson
+The materials used must be of standard quality or better.,0.9,layperson
+The quantile function \( U_{\Omega^o_t} \) plays a crucial role in determining the utility value \( U_u(\omega_t^o) \) during the initial phase of the negotiation.,0.3,layperson
+The clean-up service should be scheduled right after the party.,0.85,layperson
+The project must meet the goals set at the beginning.,0.8,layperson
+"The invitations should clearly communicate the necessary details, such as the time and place of the event.",0.85,layperson
+The materials used should be durable.,0.85,layperson
+The food must be fresh and cater to all guests.,0.9,layperson
+The service package should be designed to meet the basic needs of the guests.,0.85,layperson
+The location for the event must be easy to access for all attendees.,0.85,layperson
+The budget should cover all expected costs.,0.85,layperson
+The invitations should reflect the party's theme.,0.85,layperson
+The service package should ensure guest satisfaction.,0.85,layperson
+The project's outcome should be evaluated based on its ability to meet the expectations set at the outset.,0.85,layperson
+The invitations should be sent early to ensure everyone is informed.,0.85,layperson
+The budget should be large enough to cover all basic costs.,0.85,layperson
+The opponent's offer should be carefully reviewed to ensure that it meets all necessary criteria before being accepted.,0.85,layperson
+The clean-up service should be arranged ahead of time to ensure that the venue is left spotless after the event.,0.85,layperson
+The utility value \( U_u(\omega_t^o) \) must be at least as large as the maximum value between a fixed threshold \( u \) and another quantile function applied to \( U_{\Omega^o_t} \) at a different time-dependent point.,0.2,layperson
+"The invitations should be designed to reflect the formality of the event, ensuring that they are both aesthetically pleasing and informative.",0.85,layperson
+The drinks should be available throughout the party.,0.85,layperson
+The quality of the materials used in the project should meet or exceed industry standards.,0.85,layperson
+The utility of the opponent's offer must be evaluated based on the predetermined threshold \( ar{u_t} \) and the associated quantile function \( U_{\Omega^o_t} \).,0.2,layperson
+The drinks should be served at the appropriate temperature and in sufficient quantities to last throughout the event.,0.85,layperson
+"During the second phase, the quantile function must accurately reflect the market conditions to ensure that the utility of the opponent's offer \( U_u(\omega_t^o) \) is maximized.",0.25,layperson
+The service package should be satisfactory for all guests.,0.85,layperson
+The offer from the opponent should be at least as large as the set minimum value.,0.85,layperson
+The budget should not exceed the allocated amount.,0.85,layperson
+"The materials used in the project should be of the highest quality, ensuring durability and reliability.",0.85,layperson
+"The drinks should be served in appropriate quantities, ensuring that all guests are satisfied.",0.85,layperson
+"In the second time period, the opponent's offer must adhere to a specific criterion for it to be considered acceptable. The offer should be at least as large as either a predefined minimum value, which is set before negotiations, or a value calculated from relevant data during the process.",0.65,layperson
+"In the first time period, the opponent's offer must meet a specific criterion to be deemed acceptable. The value of the offer should be at least as large as a value calculated from relevant data or a predefined minimum value, whichever is higher.",0.6,layperson
+"During the negotiation, the value of the opponent's offer must be carefully evaluated to ensure it aligns with strategic goals. The offer should either meet a calculated value from current data or adhere to a set minimum standard.",0.65,layperson

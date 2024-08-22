@@ -1,0 +1,6 @@
+venv
+bert-finetuned-expert
+bert-finetuned-layperson
+results_expert
+results_layperson
+*.pt
