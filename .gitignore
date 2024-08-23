@@ -4,3 +4,4 @@ bert-finetuned-layperson
 results_expert
 results_layperson
 *.pt
+.env
