@@ -84,7 +84,7 @@ def train_model(df, model_name):
 
     # Train the model
     trainer.train()
-
+    tokenizer = BertTokenizer.from_pretrained('bert-base-uncased')
     # Save the model and tokenizer
     model.save_pretrained(f'bert-finetuned-{model_name}')
     tokenizer.save_pretrained(f'bert-finetuned-{model_name}')
